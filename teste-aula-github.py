@@ -1,1 +1,0 @@
-print("luca melo trouxa")
